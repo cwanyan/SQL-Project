@@ -374,6 +374,7 @@ USE cyclistic_db;
 CREATE TABLE trips_2022_cleaned AS
 SELECT * FROM temp_trips_2022;
 
+
 -- DATA ANALYSIS
 
 -- 1. Total Ride Share
